@@ -14,4 +14,5 @@
 ### Github Activity:
 <img align="center" src="https://activity-graph.herokuapp.com/graph?username=ManuelLerchner&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
+Check out my Github-Pages website: [Github-Pages](https://manuellerchner.github.io/) and my  [Portfolio-Website](https://manuellerchner.de)
 
