@@ -1,18 +1,18 @@
-<h1>Hey, nice to see you.</h1>
-
-
-
+# Hey, nice to see you.
 
 ### GitHub Highlights:
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelLerchner&langs_count=8&layout=compact&theme=material-palenight&hide=html,Tcl" />
-</a>
-<a href="">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=ManuelLerchner&theme=material-palenight"/>
-</a>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelLerchner&langs_count=12&layout=compact&theme=material-palenight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ManuelLerchner&theme=material-palenight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
 ### Github Activity:
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=ManuelLerchner&theme=dracula&color=B994E6&bg_color=2B2D3D" />
 
-Check out my Github-Pages website: [Github-Pages](https://manuellerchner.github.io/) and my  [Portfolio-Website](https://manuellerchner.de)
+[![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=ManuelLerchner&theme=dracula&color=B994E6&bg_color=2B2D3D)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+Additionally check out my Websites:
++ [Website](https://manuellerchner.de)
++ [Github-Pages](https://manuellerchner.github.io/) 
+
 
