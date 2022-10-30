@@ -101,8 +101,8 @@ Check out my Websites for new Projects:
         </div>
       </td>
       <td valign="center" width="50%">
-        <div align="left">
-          <img height="188.5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelLerchner&langs_count=12&layout=compact&theme=material-palenight"/>
+        <div height="100%" align="left">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelLerchner&langs_count=12&layout=compact&theme=material-palenight"/>
         </div>
       </td>
     </tr>
