@@ -97,12 +97,12 @@ Check out my Websites for new Projects:
     <tr>
       <td valign="center" width="50%">
         <div align="center">
-          <img height="100%" src="http://github-readme-streak-stats.herokuapp.com?user=ManuelLerchner&theme=material-palenight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelLerchner&langs_count=12&layout=compact&theme=material-palenight"/>
         </div>
       </td>
       <td valign="center" width="50%">
-        <div height="100%" align="left">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelLerchner&langs_count=12&layout=compact&theme=material-palenight"/>
+        <div align="left">
+          <img height="100%" src="http://github-readme-streak-stats.herokuapp.com?user=ManuelLerchner&theme=material-palenight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>      
         </div>
       </td>
     </tr>
