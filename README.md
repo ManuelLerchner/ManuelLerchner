@@ -36,7 +36,7 @@ Check out my personal [Website](https://manuellerchner.de) for new Projects.
     <tr>
       <td valign="top" width="100%"  colspan="2">
         <div align="center">
-          <img src="https://activity-graph.herokuapp.com/graph?username=ManuelLerchner&theme=dracula&color=B994E6&bg_color=2B2D3D" align="center" />
+          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ManuelLerchner&bg_color=0d0d0d&color=e68f60&line=3d71eb&point=dedede&area=true&hide_border=true" align="center" />
         </div>
       </td>
     </tr>
