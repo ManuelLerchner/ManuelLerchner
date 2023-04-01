@@ -42,4 +42,3 @@ Check out my personal [Website](https://manuellerchner.de) for new Projects.
     </tr>
   </table>
 </div>
-<div align="center">Constructed with <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
