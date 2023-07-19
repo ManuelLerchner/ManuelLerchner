@@ -1,6 +1,6 @@
 # Hey, nice to see you.
 
-Check out my personal [Website](https://manuellerchner.de) for new Projects.
+Check out my personal [Website](https://manuellerchner.de) for some selected Projects.
 
 ## Social
 <div align="center" style="background-color:grey;">
@@ -19,26 +19,15 @@ Check out my personal [Website](https://manuellerchner.de) for new Projects.
 </div>
 
 ## Github Stats  
+
 <div align="center">
-  <table>
-    <tr>
-      <td valign="center" width="50%">
-        <div align="center">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelLerchner&langs_count=12&layout=compact&theme=material-palenight"/>
-        </div>
-      </td>
-      <td valign="center" width="50%">
-        <div align="left">
-          <img height="100%" src="http://github-readme-streak-stats.herokuapp.com?user=ManuelLerchner&theme=material-palenight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"/>      
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td valign="top" width="100%"  colspan="2">
-        <div align="center">
-          <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ManuelLerchner&bg_color=0d0d0d&color=e68f60&line=3d71eb&point=dedede&area=true&hide_border=true" align="center" />
-        </div>
-      </td>
-    </tr>
-  </table>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelLerchner&langs_count=12&layout=compact&theme=material-palenight&count_private=true&include_all_commits=true" />
+  <img height="170" src="http://github-readme-streak-stats.herokuapp.com?user=ManuelLerchner&theme=material-palenight&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&layout=compact" />
+</div>  
+
+---
+
+<div align="center">
+  <img widht="800px" src="https://github-profile-trophy.vercel.app/?username=manuellerchner&theme=onedark&column=4&margin-w=40&margin-h=15"/>
 </div>
+
