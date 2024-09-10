@@ -19,7 +19,7 @@ Check out my personal [Website](https://manuellerchner.de) for some selected Pro
 ## Funny Stats  
 
 <div align="center">
-   <img widht="800px" src="https://github-profile-trophy.vercel.app/?username=manuellerchner&theme=onedark&column=-1&margin-w=8&margin-h=8"/>
+   <img widht="800px" src="https://github-profile-trophy.vercel.app/?username=manuellerchner&theme=onedark&column=3&margin-w=8&margin-h=16"/>
 </div>
 
 
