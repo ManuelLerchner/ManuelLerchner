@@ -1,6 +1,6 @@
 # Hey, nice to see you.
 
-Check out my [website](https://manuellerchner.de) for some selected Projects.
+Check out my [website](https://manuellerchner.de) for some selected projects.
 
 ## Social
 
